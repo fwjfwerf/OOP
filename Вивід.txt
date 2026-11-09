@@ -1,0 +1,11 @@
+Name: Daniil
+Base salary: 35000 UAH
+Programmer writes code in C++.
+
+Name: Olena
+Base salary: 30000 UAH
+Designer creates layouts in Figma.
+
+Name: Maksym
+Base salary: 40000 UAH
+Manager organizes the work of a team of 6 people.
